@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+bin/
+obj/
+Debug/
+Release/
+
+# Files created by Rider, VS Code, etc.
+.idea/
+*.code-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.env
+*.key
+*.pem
+
+# Optional: logs, temp files
+*.log
+*.tmp
